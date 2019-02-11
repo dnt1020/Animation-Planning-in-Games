@@ -24,8 +24,8 @@ void drawGround(){
   noTint();
   texture(ground);
   vertex(-100, 300, 200, 0, 0);
-  vertex(400, 300, 200, 1, 0); 
-  vertex(400, 300, -300, 1, 1); 
+  vertex(500, 300, 200, 1, 0); 
+  vertex(500, 300, -300, 1, 1); 
   vertex(-100, 300, -300, 0, 1); 
   endShape(); 
   popMatrix();
