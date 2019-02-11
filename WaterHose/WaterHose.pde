@@ -19,7 +19,7 @@ float startTime, elapsedTime = 1;
 void setup() {
   size(1000, 1000, P3D);
   camera = new PeasyCam(this, 200, 100, -50, 600); 
-  camera.setYawRotationMode(); //turn off for free camera
+  //camera.setYawRotationMode(); //turn off for free camera
   ground = loadImage("ground.jpg");
   ps = new ParticleSystem(new PVector(-10, 100, -50)); 
 }
