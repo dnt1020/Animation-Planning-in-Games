@@ -1,4 +1,10 @@
 # CSCI-5611
 Dat Nguyen's Code Repository for CSCI 5611 Spring 2019
 
-Bouncing Ball in Cube on Processing - Ball bouncing in cube with initial velocity in x-, y- and z- direction. Gravity is implemented in the y-direction and friction is created on the floor of the cube to affect the x- and z- direction. 
+Bouncing Ball Processing - Ball bouncing in 3-dimensional cube.
+
+Fireplace on Processing - Fireplace with particle systems and loaded obj. Mouse click to turn on and off.
+
+Water hose on Processing - Water hose with particle systems that fills container. Mouse click to turn on and off.
+
+Fireball on Processing - Fireball with particle systems that hits shield and cause explosion effect. Click to generate, click again to send and click once done to reset.
