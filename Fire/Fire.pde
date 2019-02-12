@@ -17,7 +17,7 @@ void setup() {
   camera.setYawRotationMode(); //turn off for free camera
   fire = loadImage("fire.png");
   smoke = loadImage("smoke.png");
-  fireplace = loadShape("fireplace.obj");
+  fireplace = loadShape("fireplace.obj"); //if doesn't load change path in .mtl file
   ps = new ParticleSystem(new PVector( 0, -20, 0));
 }
 
@@ -35,5 +35,5 @@ void draw() {
     //ps.addParticles(130); //Particles also change things in particlesystems file
   }
   ps.run(elapsedTime);
-  elapsedTime = (millis() - startTime)/8; 
+  elapsedTime = (millis() - startTime)/12; 
 }
