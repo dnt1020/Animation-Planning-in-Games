@@ -14,7 +14,7 @@ int mode;
 void setup() {
   size(1000, 1000, P3D);
   camera = new PeasyCam(this, 0, -200, 0, 800); 
-  camera.setYawRotationMode(); //turn off for free camera
+  //camera.setYawRotationMode(); //turn off for free camera
   fire = loadImage("fire.png");
   smoke = loadImage("smoke.png");
   fireplace = loadShape("fireplace.obj"); //if doesn't load change path in .mtl file

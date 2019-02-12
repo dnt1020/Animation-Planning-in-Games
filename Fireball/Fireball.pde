@@ -16,7 +16,7 @@ int add;
 void setup() {
   size(1000, 1000, P3D);
   camera = new PeasyCam(this, -450, 0, 0, 800); 
-  camera.setYawRotationMode(); //turn off for free camera
+  //camera.setYawRotationMode(); //turn off for free camera
   shield = loadShape("shield.obj");
   ps = new ParticleSystem(new PVector( -800, 0, 0));
   add = 100;
