@@ -8,3 +8,5 @@ Campfire on Processing - Fireplace with particle systems and loaded obj. Mouse c
 Water hose on Processing - Water hose with particle systems that fills container. Mouse click to turn on and off.
 
 Fireball on Processing - Fireball with particle systems that hits shield and cause explosion effect. Click to generate, click again to send and click once done to reset.
+
+Threads on Processing - Multiple threads with a spring system. Use key to move middle of threads. 
