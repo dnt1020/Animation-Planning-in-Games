@@ -9,4 +9,4 @@ Water hose on Processing - Water hose with particle systems that fills container
 
 Fireball on Processing - Fireball with particle systems that hits shield and cause explosion effect. Click to generate, click again to send and click once done to reset.
 
-Threads on Processing - Multiple threads with a spring system. Use key to move middle of threads. 
+Threads on Processing (Collab w/ Andrew Schweyen schwe596@umn.edu) - Multiple threads with a spring system. Use key to move middle of threads. 
